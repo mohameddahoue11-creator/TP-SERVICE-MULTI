@@ -1,4 +1,6 @@
-## Partie 1 — Décrire et lancer l'application
+## multi-services avec Docker Compose
+
+### Partie 1 — Décrire et lancer l'application
 
 ### Commandes exécutées et vérifications
 Après avoir écrit le fichier `docker-compose.yml`, nous avons vérifié sa syntaxe puis lancé les services :
