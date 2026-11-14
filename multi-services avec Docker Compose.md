@@ -1,4 +1,4 @@
-## multi-services avec Docker Compose
+## Multi-services avec Docker Compose
 
 ### Partie 1 — Décrire et lancer l'application
 
